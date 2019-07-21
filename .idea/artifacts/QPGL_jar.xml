@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QPGL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QPGL_jar</output-path>
+    <root id="archive" name="QPGL.jar">
+      <element id="module-output" name="QPGL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MathLib/out/artifacts/MathLib_jar/MathLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
