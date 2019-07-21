@@ -4,5 +4,6 @@
 
 # IntelliJ project files
 out/
+.idea/artifacts/
 gen
 UML.png
